@@ -4,5 +4,5 @@ go 1.15
 
 require (
 	github.com/pierrec/lz4/v4 v4.1.3
-	google.golang.org/grpc v1.36.0
+	google.golang.org/grpc v1.35.0
 )
