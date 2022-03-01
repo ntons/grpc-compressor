@@ -1,4 +1,4 @@
-module github.com/ntons/grpc-compressor/lz4
+module github.com/ntons/grpc-compressor
 
 go 1.15
 
